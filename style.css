@@ -1,0 +1,146 @@
+body {
+  background-color: black;
+}
+.container {
+  height: 90vh;
+  width: 100%;
+  /* background-color: black; */
+}
+
+.log {
+  margin-top: 12.5%;
+  margin-left: 12.5%;
+  width: 75%;
+  height: 90vh;
+  background-color: slateblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* align-items: center; */
+}
+
+.frame {
+  margin: 2.5%;
+  text-align: center;
+  border: 5px solid black;
+  border-radius: 10%;
+  border-style: groove;
+}
+
+.beg-1 {
+  display: flex;
+  flex-direction: row;
+  height: 12.5vh;
+  width: 100%;
+  background-color: antiquewhite;
+  justify-content: space-around;
+}
+
+.module-1 {
+  height: auto;
+  width: 49%;
+  background-color: azure;
+  text-align: center;
+  align-items: center;
+}
+
+.module-2 {
+  height: auto;
+  width: 49%;
+  background-color: aqua;
+  text-align: center;
+  align-items: center;
+}
+.beg-2 {
+  display: flex;
+  flex-direction: row;
+  height: 12.5vh;
+  width: 100%;
+  background-color: antiquewhite;
+  justify-content: space-around;
+}
+
+.module-3 {
+  height: auto;
+  width: 49%;
+  background-color: aqua;
+  text-align: center;
+  align-items: center;
+}
+
+.module-4 {
+  height: auto;
+  width: 49%;
+  background-color: azure;
+  text-align: center;
+  align-items: center;
+}
+.int-1 {
+  display: flex;
+  flex-direction: row;
+  height: 12.5vh;
+  width: 100%;
+  background-color: antiquewhite;
+  justify-content: space-around;
+}
+
+.module-5 {
+  height: auto;
+  width: 99%;
+  background-color: rgb(35, 122, 122);
+  text-align: center;
+  align-items: center;
+}
+.int-2 {
+  display: flex;
+  flex-direction: row;
+  height: 12.5vh;
+  width: 100%;
+  background-color: antiquewhite;
+  justify-content: space-around;
+}
+.module-6 {
+  height: auto;
+  width: 99%;
+  background-color: rgb(218, 132, 35);
+  text-align: center;
+  align-items: center;
+}
+.adv-1 {
+  display: flex;
+  flex-direction: row;
+  height: 12.5vh;
+  width: 100%;
+  background-color: antiquewhite;
+  justify-content: space-around;
+}
+.module-7 {
+  height: auto;
+  width: 49%;
+  background-color: rgb(29, 199, 29);
+  text-align: center;
+  align-items: center;
+}
+.module-8 {
+  height: auto;
+  width: 49%;
+  background-color: rgb(178, 218, 35);
+  text-align: center;
+  align-items: center;
+}
+.adv-2 {
+  display: flex;
+  flex-direction: row;
+  height: 12.5vh;
+  width: 100%;
+  background-color: antiquewhite;
+  justify-content: space-around;
+}
+
+.module-9 {
+  height: auto;
+  width: 32.5%;
+  background-color: lavender;
+  text-align: center;
+  align-items: center;
+}
